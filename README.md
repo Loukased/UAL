@@ -10,12 +10,21 @@ Here are some examples of UAL in action.
 
 ###### Addition
 This program requires 2 inputs. The first is added to the second and put into the third slot.
-`.!>.>?<!>?;@`
+```
+.!>.>?<!>?;@
+```
 
 ###### Subtraction
 This program requires 2 inputs. The second is subtracted from the first and put into the third slot.
-`.!>.>$<!>$;@`
+```
+.!>.>$<!>$;@
+```
 
 ###### "UAL" Text
-This outputs "UAL" in an interpreter. This uses character bytes to calculate the letter equivalent.
-`>>>+^^+!<<<+^^+^^^^?!>?>>!<<$$$$<!>>?>!<$$+>!$;|@`
+This outputs "UAL" in an interpreter. This uses ascii code to calculate the letter equivalent.
+```
+>>>+^^+!<<<+^^+^^^^?!>?>>!<<$$$$<!>>?>!<$$+>!$;|@
+```
+
+## Want UAL?
+We haven't released it yet. Be patient.
