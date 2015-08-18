@@ -11,7 +11,7 @@ What can it do? UAL can do lots. You can make calculators, words, text, numbers,
 - [ ] Write a fully working interpreter in C
 - [ ] Create a small documentation for the language
 - [ ] Create extensive documentation for the language
-- [ ] (Possibly) Add more character commands
+- [ ] Possibly add more character commands
 - [ ] Release several interpreters for UAL
 - [x] Add more to the to-do list
 
