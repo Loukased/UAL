@@ -5,6 +5,13 @@ Unreasonable Automation Language, or UAL is a esoteric programming language main
 ## What it can do
 What can it do? UAL can do lots. You can make calculators, words, text, numbers, and all sorts of stuff. UAL works in 16 slots, each changeable at any time. No clicking, no dragging, just typing.
 
+## To-Do
+
+- [x] Write a fully working interpreter in Lua (5.1)
+- [ ] Write a fully working interpreter in C
+- [ ] Create extensive documentation for the language
+- [ ] Add more to the to-do list
+
 ## Examples
 Here are some examples of UAL in action.
 
