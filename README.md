@@ -9,8 +9,11 @@ What can it do? UAL can do lots. You can make calculators, words, text, numbers,
 
 - [x] Write a fully working interpreter in Lua (5.1)
 - [ ] Write a fully working interpreter in C
+- [ ] Create a small documentation for the language
 - [ ] Create extensive documentation for the language
-- [ ] Add more to the to-do list
+- [ ] (Possibly) Add more character commands
+- [ ] Release several interpreters for UAL
+- [x] Add more to the to-do list
 
 ## Examples
 Here are some examples of UAL in action.
